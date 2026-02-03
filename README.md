@@ -1,5 +1,24 @@
 # 💫 About Me:
-👋 About Me<br><br>I’m a B.Tech CSE (3rd year) student with a strong interest in software development, data structures, and cloud computing. I enjoy building projects that strengthen my core CS fundamentals and turn concepts into practical solutions.<br>🔭 I’m currently working on<br><br>Data Structures & Algorithms using C++ and Java, frontend projects with HTML, CSS, JavaScript, and strengthening my core CS fundamentals.<br><br>👯 I’m looking to collaborate on<br><br>Beginner-friendly open source projects, DSA-based applications, and web development projects where I can learn and contribute.<br><br>🤝 I’m looking for help with<br><br>Understanding system design basics, cloud fundamentals, and improving problem-solving efficiency.<br><br>🌱 I’m currently learning<br><br>Operating Systems, Java OOP, Advanced DSA, and Cloud Computing concepts to move towards a Cloud Architect role.<br><br>💬 Ask me about<br><br>C++, Java, DSA, LeetCode problems, basic web development, and student-level projects.<br><br>⚡ Fun fact<br><br>I enjoy turning complex concepts into simple programs and learning by building projects rather than just reading theory.
+👨‍💻 Peshal Mishra
+
+🎓 B.Tech in Computer Science & Engineering | Currently in 2nd Year
+
+☁️ I’m an aspiring Cloud Engineer with a strong interest in building scalable, reliable, and secure systems. I specialize in Amazon Web Services (AWS) and hold an AWS certification, which has given me hands-on exposure to cloud fundamentals, compute, storage, networking, and deployment concepts.
+
+💻 I also work as a software developer, focusing on writing clean, maintainable, and efficient code. My experience spans C++, Java, JavaScript, along with HTML and CSS, allowing me to build both logic-heavy applications and user-facing web projects.
+
+🧩 I actively practice Data Structures & Algorithms, strengthening my problem-solving skills through algorithmic challenges and logic-driven programs that improve performance and code efficiency.
+
+🌐 I enjoy building DSA-based systems, web applications using DOM manipulation, and structured mini-projects that translate core computer science concepts into practical implementations.
+
+⚙️ I have a growing interest in Operating Systems, backend development, cloud-native architectures, and system design fundamentals, and I continuously explore how large-scale applications are designed, deployed, and monitored in real-world environments.
+
+🧠 My core areas of interest include Cloud Computing (AWS), Software Development, Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Computer Networks, and Web Technologies, helping me approach problems from both a theoretical and practical perspective.
+
+🛠 Technical Skills & Tools:
+C++, Java, JavaScript, HTML, CSS, AWS, Linux, Git & GitHub, Data Structures & Algorithms, OOP, RESTful concepts, basic backend fundamentals, and end-to-end project development.
+
+🚀 I enjoy turning complex problems into simple, efficient, and scalable solutions, and I’m driven by continuous learning, hands-on building, and creating software that delivers real value.
 
 
 ## 🌐 Socials:
