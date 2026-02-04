@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" width="100%" height="350" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=1E90FF&center=true&vCenter=true&width=800&height=80&lines=Hey+there!+I'm+Peshal+Mishra+🚀;Cloud+%26+Web+Developer;MERN+Stack+Enthusiast;Building+cool+things+with+code&v=2"alt="Typing SVG"/>
+  </a>
+</p>
+
+
+---
+
 # 💫 About Me:
 👨‍💻 Peshal Mishra
 
