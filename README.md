@@ -4,11 +4,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=1E90FF&center=true&vCenter=true&width=800&height=80&lines=Hey+there!+I'm+Peshal+Mishra+🚀;Cloud+%26+Web+Developer;MERN+Stack+Enthusiast;Building+cool+things+with+code&v=2"alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=1E90FF&center=true&vCenter=true&width=800&height=80&lines=Hey+there!+I'm+Peshal+Mishra+🚀;CSE+Undergrad+Developer+🎓;Full+Stack+Web+Learner+💻;Aspiring+Cloud+Architect+☁️;Cloud+and+Web+Developer+🌐;Learning+AWS+and+Backend+Systems+⚙️;Building+scalable+solutions+📈;DSA+with+C%2B%2B+and+Java+🧠;Code.+Build.+Improve.+🔥&v=3" alt="Typing SVG" />
   </a>
 </p>
-
 
 ---
 
