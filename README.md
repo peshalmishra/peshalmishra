@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:1E90FF&height=200&section=header&text=Peshal%20Mishra&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Peshal%20Mishra&fontSize=50&fontColor=fff&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 
+<!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=1E90FF&center=true&vCenter=true&width=800&height=70&lines=Hey+there!+I'm+Peshal+Mishra+%F0%9F%9A%80;CSE+Undergrad+Developer+%F0%9F%8E%93;Full+Stack+Web+Learner+%F0%9F%92%BB;Aspiring+Cloud+Architect+%E2%98%81%EF%B8%8F;Cloud+and+Web+Developer+%F0%9F%8C%90;Learning+AWS+and+Backend+Systems+%E2%9A%99%EF%B8%8F;Building+scalable+solutions+%F0%9F%93%88;DSA+with+C%2B%2B+and+Java+%F0%9F%A7%A0;Code.+Build.+Improve.+%F0%9F%94%A5&v=3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=1E90FF&center=true&vCenter=true&width=800&height=70&lines=Hey+there!+I'm+Peshal+Mishra+%F0%9F%9A%80;CSE+Undergrad+Developer+%F0%9F%8E%93;Full+Stack+Web+Learner+%F0%9F%92%BB;Aspiring+Cloud+Architect+%E2%98%81%EF%B8%8F;Cloud+and+Web+Developer+%F0%9F%8C%90;Learning+AWS+and+Backend+Systems+%E2%9A%99%EF%B8%8F;Building+scalable+solutions+%F0%9F%93%88;DSA+with+C%2B%2B+and+Java+%F0%9F%A7%A0;Code.+Build.+Improve.+%F0%9F%94%A5&v=3" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
+<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peshalmishra)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/peshalm.bsky.social)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/971225961414660147)
@@ -16,7 +19,9 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/peshalmishra13)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peshalmishra13@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=peshalmishra&label=Profile%20Views&color=1E90FF&style=flat-square" alt="Profile Views" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=peshalmishra&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -28,25 +33,35 @@
 
 👨‍💻 **Peshal Mishra**
 
-🎓 B.Tech in Computer Science & Engineering | Currently in **2nd Year**
+🎓 B.Tech CSE student in **2nd Year** and aspiring **Cloud Engineer** with **AWS certification** and hands-on experience in cloud fundamentals.
 
-☁️ I'm an aspiring **Cloud Engineer** with a strong interest in building scalable, reliable, and secure systems. I specialize in **Amazon Web Services (AWS)** and hold an **AWS certification**, which has given me hands-on exposure to cloud fundamentals, compute, storage, networking, and deployment concepts.
+💻 Skilled in **C++, Java, JavaScript, HTML, and CSS**, with a focus on building clean, efficient, and scalable applications.
 
-💻 I also work as a **software developer**, focusing on writing clean, maintainable, and efficient code. My experience spans **C++, Java, JavaScript**, along with HTML and CSS, allowing me to build both logic-heavy applications and user-facing web projects.
+🧠 Strong in **Data Structures & Algorithms**, enhancing problem-solving and performance optimization skills.
 
-🧩 I actively practice **Data Structures & Algorithms**, strengthening my problem-solving skills through algorithmic challenges and logic-driven programs that improve performance and code efficiency.
+⚙️ Interested in **backend development, Operating Systems, cloud-native architectures**, and system design.
 
-🌐 I enjoy building **DSA-based systems**, web applications using DOM manipulation, and structured mini-projects that translate core computer science concepts into practical implementations.
+🛠 Experienced with **Linux, Git**, and end-to-end project development.
 
-⚙️ I have a growing interest in **Operating Systems, backend development, cloud-native architectures**, and system design fundamentals, and I continuously explore how large-scale applications are designed, deployed, and monitored in real-world environments.
-
-🧠 **Core areas of interest:** Cloud Computing (AWS) · Software Development · Data Structures & Algorithms · Object-Oriented Programming · Operating Systems · Computer Networks · Web Technologies
-
-🛠 **Technical Skills:** C++ · Java · JavaScript · HTML · CSS · AWS · Linux · Git & GitHub · DSA · OOP · RESTful concepts · Basic backend fundamentals · End-to-end project development
-
-🚀 I enjoy turning complex problems into simple, efficient, and scalable solutions — driven by continuous learning, hands-on building, and creating software that delivers real value.
+🚀 Passionate about turning complex problems into practical solutions through continuous learning, real-world projects, and building **reliable, scalable software systems**.
 
 <br clear="right"/>
+
+---
+
+## 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/peshalmishra)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/peshalm.bsky.social)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/971225961414660147)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/peshal.mishra.3)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_peshalm0_0)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/peshalmishra13)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:peshalmishra13@gmail.com)
+
+</div>
 
 ---
 
@@ -144,13 +159,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=peshalmishra&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peshalmishra&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=peshalmishra&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peshalmishra&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=peshalmishra&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=peshalmishra&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -160,17 +175,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=peshalmishra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=peshalmishra&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=peshalmishra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
 
 </div>
 
@@ -186,12 +191,22 @@
 
 ---
 
+## 🔝 Top Contributed Repos
+
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=peshalmishra&icon=6&color=1)](https://visitcount.itsvg.in)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=peshalmishra&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=peshalmishra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
