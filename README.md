@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Peshal%20Mishra&fontSize=50&fontColor=fff&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 
-<!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=1E90FF&center=true&vCenter=true&width=800&height=70&lines=Hey+there!+I'm+Peshal+Mishra+%F0%9F%9A%80;CSE+Undergrad+Developer+%F0%9F%8E%93;Full+Stack+Web+Learner+%F0%9F%92%BB;Aspiring+Cloud+Architect+%E2%98%81%EF%B8%8F;Cloud+and+Web+Developer+%F0%9F%8C%90;Learning+AWS+and+Backend+Systems+%E2%9A%99%EF%B8%8F;Building+scalable+solutions+%F0%9F%93%88;DSA+with+C%2B%2B+and+Java+%F0%9F%A7%A0;Code.+Build.+Improve.+%F0%9F%94%A5&v=3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=1E90FF&center=true&vCenter=true&width=800&height=70&lines=Hey+there!+I'm+Peshal+Mishra+%F0%9F%9A%80;CSE+Undergrad+%7C+2nd+Year+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%92%BB;Aspiring+Cloud+Architect+%E2%98%81%EF%B8%8F;AWS+Certified+Cloud+Practitioner+%F0%9F%8C%90;Learning+Backend+%26+System+Design+%E2%9A%99%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%93%88;DSA+with+C%2B%2B+and+Java+%F0%9F%A7%A0;Code.+Build.+Improve.+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peshalmishra)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/peshalm.bsky.social)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/971225961414660147)
@@ -31,37 +28,19 @@
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif"/>
 
-👨‍💻 **Peshal Mishra**
+👨‍💻 **Peshal Mishra** — B.Tech CSE student in **2nd Year**, aspiring **Cloud Engineer** with an **AWS Certification** and real-world hands-on experience.
 
-🎓 B.Tech CSE student in **2nd Year** and aspiring **Cloud Engineer** with **AWS certification** and hands-on experience in cloud fundamentals.
+💻 Skilled in **C++, Java, JavaScript, TypeScript, HTML/CSS**, with a focus on clean, efficient, and scalable code.
 
-💻 Skilled in **C++, Java, JavaScript, HTML, and CSS**, with a focus on building clean, efficient, and scalable applications.
+🧠 Consistent **DSA practitioner** with 300+ problems solved on LeetCode using C++ and Java.
 
-🧠 Strong in **Data Structures & Algorithms**, enhancing problem-solving and performance optimization skills.
+⚙️ Interested in **backend development, system design, Operating Systems**, and cloud-native architectures.
 
-⚙️ Interested in **backend development, Operating Systems, cloud-native architectures**, and system design.
+🛠 Comfortable with **Linux, Git, Docker**, and end-to-end project development workflows.
 
-🛠 Experienced with **Linux, Git**, and end-to-end project development.
-
-🚀 Passionate about turning complex problems into practical solutions through continuous learning, real-world projects, and building **reliable, scalable software systems**.
+🚀 Passionate about turning complex problems into practical, reliable software — through continuous learning and real-world building.
 
 <br clear="right"/>
-
----
-
-## 🌐 Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/peshalmishra)
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/peshalm.bsky.social)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/971225961414660147)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/peshal.mishra.3)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_peshalm0_0)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/peshalmishra13)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:peshalmishra13@gmail.com)
-
-</div>
 
 ---
 
@@ -99,13 +78,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/AngularJS-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Stylus](https://img.shields.io/badge/Stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -118,23 +94,17 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Xbox](https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 </div>
 
@@ -146,10 +116,10 @@
 
 | 🥇 Achievement | 📋 Details |
 |:---|:---|
-| ☁️ AWS Certified Cloud Practitioner | Hands-on expertise in cloud fundamentals, compute, storage, networking & deployment |
+| ☁️ AWS Certified Cloud Practitioner | Expertise in cloud fundamentals, compute, storage, networking & deployment |
 | 🧠 300+ DSA Problems Solved | Consistent problem-solving on LeetCode with C++ and Java |
 | 🤝 Open Source Contributor | Active contributor to open-source repositories on GitHub |
-| 🚀 Cloud Projects on AWS | Built and deployed scalable, real-world cloud-based projects on AWS |
+| 🚀 Cloud Projects on AWS | Built and deployed scalable, real-world cloud-based projects |
 
 </div>
 
@@ -181,21 +151,31 @@
 
 ---
 
-## ✍️ Dev Quote of the Day
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peshalmishra&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🔝 Top Repos
 
 <div align="center">
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=peshalmishra&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=peshalmishra&repo=peshalmishra&theme=tokyonight&hide_border=true)](https://github.com/peshalmishra/peshalmishra)
+
+</div>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
