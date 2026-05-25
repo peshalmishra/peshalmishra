@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Peshal%20Mishra&fontSize=50&fontColor=fff&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=1E90FF&center=true&vCenter=true&width=800&height=70&lines=Hey+there!+I'm+Peshal+Mishra+%F0%9F%9A%80;CSE+Undergrad+%7C+2nd+Year+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%92%BB;Aspiring+Cloud+Architect+%E2%98%81%EF%B8%8F;AWS+Certified+Cloud+Practitioner+%F0%9F%8C%90;Learning+Backend+%26+System+Design+%E2%9A%99%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%93%88;DSA+with+C%2B%2B+and+Java+%F0%9F%A7%A0;Code.+Build.+Improve.+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=1E90FF&center=true&vCenter=true&width=800&height=70&lines=Hey+there!+I'm+Peshal+Mishra+%F0%9F%9A%80;CSE+Undergrad+%7C+3rd+Year+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%92%BB;Aspiring+Cloud+Architect+%E2%98%81%EF%B8%8F;AWS+Certified+Cloud+Practitioner+%F0%9F%8C%90;Learning+Backend+%26+System+Design+%E2%9A%99%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%93%88;DSA+with+C%2B%2B+and+Java+%F0%9F%A7%A0;Code.+Build.+Improve.+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/><br/>
