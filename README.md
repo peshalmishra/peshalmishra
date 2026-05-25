@@ -28,7 +28,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif"/>
 
-👨‍💻 **Peshal Mishra** — B.Tech CSE student in **3nd Year**, aspiring **Cloud Engineer** with an **AWS Certification** and real-world hands-on experience.
+👨‍💻 **Peshal Mishra** — B.Tech CSE student in **3rd Year**, aspiring **Cloud Engineer** with an **AWS Certification** and real-world hands-on experience.
 
 💻 Skilled in **C++, Java, JavaScript, TypeScript, HTML/CSS**, with a focus on clean, efficient, and scalable code.
 
